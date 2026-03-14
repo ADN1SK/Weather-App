@@ -1,4 +1,3 @@
-Gemini said
 WeatherWise 🌦️
 A sleek, no-nonsense command-line tool or web interface that bridges the gap between the sky and your screen. It’s built for those who value precision over fluff and want to know exactly when to grab an umbrella or soak up the sun.
 
