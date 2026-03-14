@@ -15,7 +15,7 @@ Key Library: requests for API handling.
 
 Data Format: JSON parsing for maximum accuracy.
 SCREENSHOT:
-
+/home/adn1sk/Pictures/Screenshots/Screenshot From 2026-03-14 09-39-07.png
 
 📖 Installation & Setup
 Clone the Repo:
