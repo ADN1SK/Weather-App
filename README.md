@@ -7,6 +7,8 @@ Real-Time Sync: Pulls live meteorological data from OpenWeatherMap (or similar R
 Deep Metrics: Goes beyond "sunny." Tracks humidity, wind speed, and barometric pressure.
 
 Clean Architecture: Written with modularity in mind—easy to read, easier to scale.
+##screenshot:
+<img width="537" height="568" alt="image" src="https://github.com/user-attachments/assets/478e27ca-35ac-4b1e-85d4-26e0ef090a28" />
 
 🛠️ The Tech Stack
 Language: HTML, CSS, JS.
