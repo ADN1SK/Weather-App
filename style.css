@@ -28,6 +28,8 @@ button[type="submit"]{
     background-color: #007BFF;
     border: none;
     border-radius: 10px;
+
+    
     cursor: pointer;
 }
 button[type="submit"]:hover{
