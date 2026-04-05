@@ -109,3 +109,4 @@ function displayError(message) {
 
   card.appendChild(errorDisplay);
 }
+
