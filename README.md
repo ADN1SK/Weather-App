@@ -19,7 +19,7 @@ Data Format: JSON parsing for maximum accuracy.
 
 📖 Installation & Setup
 Clone the Repo:
-git clone :(https://github.com/ADN1SK/Weather-App.git)
+**git clone🥇**(https://github.com/ADN1SK/Weather-App.git)
 
 Get Your Key: Sign up at OpenWeatherMap to snag your API key.
 
