@@ -15,6 +15,7 @@ Language: HTML, CSS, JS.
 
 Key Library: requests for API handling.
 
+
 Data Format: JSON parsing for maximum accuracy.
 
 📖 Installation & Setup
