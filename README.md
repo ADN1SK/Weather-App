@@ -25,4 +25,4 @@ Clone the Repo:
 Get Your Key: Sign up at OpenWeatherMap to snag your API key.
 
 Environment Variables: Create a .env file and drop your key in:
-API_KEY=your_secret_key_here
+API_KEY=LET'S KEEP IT A SECRET 🙊 😉 
